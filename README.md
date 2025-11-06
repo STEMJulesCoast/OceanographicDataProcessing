@@ -27,7 +27,7 @@ Focus: advanced analysis and dynamic processes.
 - [**`/Modules`**](/Modules/): contains reusable Python modules
 - [**`/Data`**](/Data/): datasets used in the course
 - [**`/01_Fundamentals`**](/01_Fundamentals/): notebooks and materials for the first block (November 29). 
-- [**`02_Applications`**](/02_Applications/): notebooks and materials for the second block (January 10, 2026).
+- [**`/02_Applications`**](/02_Applications/): notebooks and materials for the second block (January 10, 2026).
 
 
 Each notebook contains exercises — some will be covered together, others you can complete independently.  

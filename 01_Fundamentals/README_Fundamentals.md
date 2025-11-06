@@ -37,7 +37,7 @@ We will work through the notebooks together during class. Everything we don’t 
 - **Testing & Debugging:** Use `pytest` to verify correctness and detect logical errors early.  
 
 Reading the notebook text carefully is essential — most answers and hints are already there.  
-Recent studies consistently show that people remember **significantly more** when they **actively work through material**, compared to only listening or watching.
+The are some articles (e.g. https://theconversation.com/why-we-remember-more-by-reading-especially-print-than-from-audio-or-video-159522) showing that people remember **more** when they **reador actively work through**, compared to only listening or watching.
 
 ### Tip
 If you fall behind during the session, don’t worry — each notebook is self-contained and can be completed later at your own pace.  
