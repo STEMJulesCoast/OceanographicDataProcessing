@@ -84,7 +84,7 @@ Normally, VS Code guides you through this process – you just need to open a no
 
 You can run all notebooks online without local installation:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](need a link)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/OceanographicDataProcessing/main?urlpath=%2Fdoc%2Ftree%2F%2F01_Fundamentals%2F01_DataStructures_and_Plotting.ipynb)
 
 Note: Binder sessions are temporary and reset after inactivity (~10 min).
 

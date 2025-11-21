@@ -21,6 +21,9 @@ We will work through the notebooks together during class. Everything we don’t 
 - **`03_FunctionsModules.ipynb`**  
   We gradually introduce **Ekman dynamics** and explore how to organize related functions into a module for future use in subsequent sessions.
 
+- **`homework.ipynb`**  
+  Your homework to solve until January 10th
+
 
 ### Files Created:
 - `basics.py`: A module for basic calculating functions like multiplication.
@@ -37,7 +40,7 @@ We will work through the notebooks together during class. Everything we don’t 
 - **Testing & Debugging:** Use `pytest` to verify correctness and detect logical errors early.  
 
 Reading the notebook text carefully is essential — most answers and hints are already there.  
-The are some articles (e.g. https://theconversation.com/why-we-remember-more-by-reading-especially-print-than-from-audio-or-video-159522) showing that people remember **more** when they **reador actively work through**, compared to only listening or watching.
+The are some articles (e.g. https://theconversation.com/why-we-remember-more-by-reading-especially-print-than-from-audio-or-video-159522) showing that people remember **more** when they **read or actively work through material**, compared to only listening or watching. 
 
 ### Tip
 If you fall behind during the session, don’t worry — each notebook is self-contained and can be completed later at your own pace.  

@@ -10,6 +10,7 @@ def calculate_nino34_index(sst_anom_detrended):
     # Select the Niño3.4 region (5°S–5°N, 170°W–120°W) when lon = 0:360°S
     sst_anom_nino34 = sst_anom_detrended.sel(lat=slice(-5, 5), lon=slice(190, 240))  # Nino3.4 Region
     
+    
     # Calculate the mean SST anomaly in the Niño3.4 region
     sst_anom_nino34_mean = sst_anom_nino34.mean(dim=('lon', 'lat'))
     
