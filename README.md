@@ -81,16 +81,7 @@ FYI How to create a virtual environment and install the necessary libaries in Vi
 
 Normally, VS Code guides you through this process – you just need to open a notebook and click on 'Select Kernel' in the upper-right corner, then let the VS Code magic happen.
 
----
-<!-->
-### Access the course via Binder
 
-Click the link below to launch the course in a temporary, browser-based environment using Binder. Binder allows you to run the Jupyter notebooks without needing to install anything locally. Keep in mind that this environment is temporary and any changes you make will be lost once you close the session or after ~10 minutes of inactivity. For a permanent setup, you may prefer to clone the GitHub repository and work in your local environment.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/OceanographicDataProcessingCourse/main)
-
-Please note that it may take several minutes (or enough time to grab a coffee/tea) for the page to load. The Binder link will not be updated and may show differences compared to the repository here.
--->
 ---
 ## Data Utilized Throughout the Course
 
