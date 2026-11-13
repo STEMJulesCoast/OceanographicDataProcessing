@@ -30,10 +30,6 @@ The course consists of six sessions, each contained in its own folder:
 
 **Note:** Each exercise notebook contains a few exercises, which we will either discuss together or you will complete independently. There are also extra exercises. They are provided to deepen your understanding, but they are not required to progress through the script during our live sessions. If you find that you're moving through the material quickly and would like an additional challenge, feel free to tackle these as well.
 
----
-### Solutions to the exercises and homeworks are already uploaded and stored in the corresponing folder.
---- 
-
 
 **The course emphasizes the importance of carefully reading and understanding instructions and comments to find solutions.** 
 
@@ -41,7 +37,7 @@ The course consists of six sessions, each contained in its own folder:
 ### Requirements:
 
 Before starting the course, make sure to:
-1. Install [Python 3.12](https://www.python.org/downloads/release/python-3139/):  [Windows](https://www.python.org/ftp/python/3.13.9/python-3.13.9-amd64.exe) | [macOS](https://www.python.org/ftp/python/3.13.9/python-3.13.9-macos11.pkg)
+1. Install [Python 3.13](https://www.python.org/downloads/release/python-3139/):  [Windows](https://www.python.org/ftp/python/3.13.9/python-3.13.9-amd64.exe) | [macOS](https://www.python.org/ftp/python/3.13.9/python-3.13.9-macos11.pkg)
     
     and [Visual Studio (VS) Code](https://code.visualstudio.com/download): [Windows](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) | [macOS](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal)
 
@@ -86,7 +82,7 @@ FYI How to create a virtual environment and install the necessary libaries in Vi
 Normally, VS Code guides you through this process – you just need to open a notebook and click on 'Select Kernel' in the upper-right corner, then let the VS Code magic happen.
 
 ---
-
+<!-->
 ### Access the course via Binder
 
 Click the link below to launch the course in a temporary, browser-based environment using Binder. Binder allows you to run the Jupyter notebooks without needing to install anything locally. Keep in mind that this environment is temporary and any changes you make will be lost once you close the session or after ~10 minutes of inactivity. For a permanent setup, you may prefer to clone the GitHub repository and work in your local environment.
@@ -94,7 +90,7 @@ Click the link below to launch the course in a temporary, browser-based environm
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/OceanographicDataProcessingCourse/main)
 
 Please note that it may take several minutes (or enough time to grab a coffee/tea) for the page to load. The Binder link will not be updated and may show differences compared to the repository here.
-
+-->
 ---
 ## Data Utilized Throughout the Course
 

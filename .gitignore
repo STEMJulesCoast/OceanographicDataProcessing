@@ -18,7 +18,11 @@ Notes.txt
 **/chunking*
 Files_Students
 Session*
+!Session1*
+!Session2*
+!*notebook.ipynb
 *solution*
 *pytest_cache*
 Student_Notebooks
+test_trend_analysis.py
 
