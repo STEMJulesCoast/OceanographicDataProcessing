@@ -3,8 +3,6 @@ Data/**/*.nc
 Data/**/*.zip
 !Data/Wind/cmems_obs-wind_glo_phy_my_l4_P1M_202501.nc
 **/*solutions.ipynb
-**/*.png
-**/*.jpg
 Modules/*
 !Modules/.gitkeep
 **/__pycache__/
