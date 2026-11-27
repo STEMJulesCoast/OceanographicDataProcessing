@@ -1,6 +1,8 @@
 
 # Oceanographic Data Processing Course
 
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/STEMJulesCoast/OceanographicDataProcessing/main?urlpath=lab%2Ftree%2FREADME.md%3Fopen-with%3DMarkdown%2BPreview)
+
 Welcome to **Oceanographic Data Processing**. This course is designed to introduce you to working with oceanographic datasets using Python. It is divided into six sessions, each focusing on a different aspect of data processing, analysis, and visualization.
 
 The course is organized into three meetings, each containing two sessions. The meetings will take place on November 28, December 12, and January 9.
